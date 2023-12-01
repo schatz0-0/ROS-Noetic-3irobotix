@@ -7,7 +7,14 @@ devel_isolated/
 install_isolated/
 src/ceres-solver-1.13.0
 src/glog-0.5.0
-
+*.zip
+**/*.zip
+*.7z
+**/*.7z
+*.tar.xz
+**/*.tar.xz
+*.bak
+**/*.bak
 [core] 
 packedGitLimit = 512m 
 packedGitWindowSize = 512m 
