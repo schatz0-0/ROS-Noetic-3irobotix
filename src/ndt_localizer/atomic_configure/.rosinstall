@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/lin/software/slam_ws/src/ndt_localizer-master/devel/setup.sh

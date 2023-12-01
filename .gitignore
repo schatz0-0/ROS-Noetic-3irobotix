@@ -1,0 +1,17 @@
+abseil-cpp
+.vscode
+build/
+build_isolated/
+devel/
+devel_isolated/
+install_isolated/
+src/ceres-solver-1.13.0
+src/glog-0.5.0
+
+[core] 
+packedGitLimit = 512m 
+packedGitWindowSize = 512m 
+[pack] 
+deltaCacheSize = 2047m 
+packSizeLimit = 2047m 
+windowMemory = 2047m
